@@ -1,6 +1,6 @@
 import logo from './logo.svg';
 
-export const assets = {
+export const asset = {
     logo,
 };
 
